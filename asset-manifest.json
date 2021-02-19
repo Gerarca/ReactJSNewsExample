@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactJSNewsExample/static/css/main.2446b9d0.chunk.css",
+    "main.js": "/ReactJSNewsExample/static/js/main.3474394d.chunk.js",
+    "main.js.map": "/ReactJSNewsExample/static/js/main.3474394d.chunk.js.map",
+    "runtime-main.js": "/ReactJSNewsExample/static/js/runtime-main.7a4ca2da.js",
+    "runtime-main.js.map": "/ReactJSNewsExample/static/js/runtime-main.7a4ca2da.js.map",
+    "static/js/2.6a442ecd.chunk.js": "/ReactJSNewsExample/static/js/2.6a442ecd.chunk.js",
+    "static/js/2.6a442ecd.chunk.js.map": "/ReactJSNewsExample/static/js/2.6a442ecd.chunk.js.map",
+    "static/js/3.ada8e671.chunk.js": "/ReactJSNewsExample/static/js/3.ada8e671.chunk.js",
+    "static/js/3.ada8e671.chunk.js.map": "/ReactJSNewsExample/static/js/3.ada8e671.chunk.js.map",
+    "index.html": "/ReactJSNewsExample/index.html",
+    "static/css/main.2446b9d0.chunk.css.map": "/ReactJSNewsExample/static/css/main.2446b9d0.chunk.css.map",
+    "static/js/2.6a442ecd.chunk.js.LICENSE.txt": "/ReactJSNewsExample/static/js/2.6a442ecd.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ReactJSNewsExample/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a4ca2da.js",
+    "static/js/2.6a442ecd.chunk.js",
+    "static/css/main.2446b9d0.chunk.css",
+    "static/js/main.3474394d.chunk.js"
+  ]
+}
