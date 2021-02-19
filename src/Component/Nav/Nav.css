@@ -1,0 +1,20 @@
+.navbar-fixed-left{
+    width: 15%;
+    height: auto;
+    display:block; 
+    background-color: #282c34;          
+}
+
+
+nav a{  
+    display: block;    
+    text-decoration: none;
+    color: #ffff; 
+    padding: 10px;  
+}
+
+nav a:hover{
+    background-color: #414753;   
+    cursor: pointer;
+}
+
